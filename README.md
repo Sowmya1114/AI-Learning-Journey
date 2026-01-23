@@ -12,3 +12,10 @@ Started on: 22-01-2026
 - Vowel counting
 - Largest number in list
 - Files pushed: python_practice.py, practice_notes.md
+
+
+## Day-2 (23-01-2026)
+- Revised Python functions & dictionaries
+- Started Machine Learning basics
+- Built first ML model using scikit-learn
+- Files pushed: python_revision.py, ml_intro.py
