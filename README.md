@@ -19,3 +19,11 @@ Started on: 22-01-2026
 - Started Machine Learning basics
 - Built first ML model using scikit-learn
 - Files pushed: python_revision.py, ml_intro.py
+
+
+## Day-3 (24-01-2026)
+- Practiced Python DSA basics
+- Learned ML evaluation concepts
+- Implemented Decision Tree model
+- Files pushed: dsa_practice.py, ml_decision_tree.py, practice_notes.md
+
