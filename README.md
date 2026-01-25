@@ -27,3 +27,9 @@ Started on: 22-01-2026
 - Implemented Decision Tree model
 - Files pushed: dsa_practice.py, ml_decision_tree.py, practice_notes.md
 
+
+## Day-4 (Sunday Revision)
+- Revised Day-1 to Day-3 code
+- Learned basic math intuition for ML
+- Built House Price Regression mini project
+- Files pushed: revision_notes.md, math_notes.md, house_price_regression.py
