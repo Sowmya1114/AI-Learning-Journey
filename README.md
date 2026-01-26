@@ -33,3 +33,10 @@ Started on: 22-01-2026
 - Learned basic math intuition for ML
 - Built House Price Regression mini project
 - Files pushed: revision_notes.md, math_notes.md, house_price_regression.py
+
+
+## Day-5 (ML Evaluation + DSA Practice)
+- Practiced DSA interview problems
+- Learned ML evaluation metrics
+- Implemented classification report
+- Files pushed: dsa_interview_practice.py, ml_evaluation.py, practice_notes.md
