@@ -40,3 +40,10 @@ Started on: 22-01-2026
 - Learned ML evaluation metrics
 - Implemented classification report
 - Files pushed: dsa_interview_practice.py, ml_evaluation.py, practice_notes.md
+
+
+## Day-6 (Deep Learning Started)
+- Practiced Python DSA
+- Learned Neural Network fundamentals
+- Implemented first Deep Learning model
+- Files pushed: dsa_practice.py, neural_network_basic.py, practice_notes.md
